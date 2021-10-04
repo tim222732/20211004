@@ -89,5 +89,6 @@ class ourball{
       mouseY>this.x-this.size/2 
       ){
        circle(this.x,this.y,this.size*1.5)
+    }
   }
 }
